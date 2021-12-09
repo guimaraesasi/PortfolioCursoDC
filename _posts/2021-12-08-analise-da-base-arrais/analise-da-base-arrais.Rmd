@@ -1,7 +1,7 @@
 ---
-title: "Analise da base ARRAIS"
-description: Essa análise tem por objetivo analisar os saláriosna base ARRAIS. Este projeto foi feito na semana de CIência de Dados usando R. 
-  A short description of the post.
+title: "Análise da base ARRAIS"
+description: Essa análise tem por objetivo analisar os salários na base ARRAIS. Este projeto foi feito na semana de CIência de Dados usando R. 
+  
 author:
   - name: Isabella Gonzaga
     url: https://example.com/norajones
