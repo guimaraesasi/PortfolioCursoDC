@@ -1,6 +1,6 @@
 ---
 title: "Análise da base RAIS"
-description: Essa análise tem por objetivo analisar os salários na base ARRAIS. Este projeto foi feito na semana de CIência de Dados usando R. 
+description: Essa análise tem por objetivo analisar os salários na base RAIS. Este projeto foi feito na semana de CIência de Dados usando R. 
   
 author:
   - name: Isabella Gonzaga
@@ -21,4 +21,30 @@ Esse é o meu ***primeiro projeto*** no portfólio.
 
 [Link Para o Lattes](http://lattes.cnpq.br/1447698806310788)
 
-[Linkedin](<https://www.linkedin.com/in/isabella-guimar%C3%A3es-0a177614b/>)
+[Linkedin](https://www.linkedin.com/in/isabella-guimar%C3%A3es-0a177614b/)
+
+## Introdução
+
+### Primeiros Passos.
+knitr:: kable(mtcars)
+ knitr::kable(mtcars)
+ 
+```{r}
+
+```
+```{r}
+mtcars
+knitr::kable(mtcars)
+
+```
+
+ 
+```{r, out.width="70%", fig.align='center', dpi=300, fig.cap= "Grafico da base mtcars"}
+plot(mtcars$mpg, mtcars$cyl)
+
+```
+ 
+ Hoje é dia `r Sys.Date()`.
+ 
+
+
