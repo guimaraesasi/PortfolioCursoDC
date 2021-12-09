@@ -1,5 +1,5 @@
 ---
-title: "Análise da base ARRAIS"
+title: "Análise da base RAIS"
 description: Essa análise tem por objetivo analisar os salários na base ARRAIS. Este projeto foi feito na semana de CIência de Dados usando R. 
   
 author:
@@ -11,10 +11,8 @@ output:
     self_contained: false
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Esse é o meu primeiro projeto no portfólio.
-
+Esse é o meu *primeiro projeto* no portfólio.
