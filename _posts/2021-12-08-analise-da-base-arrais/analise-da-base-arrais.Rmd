@@ -16,5 +16,5 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Esse é o meu primeiro projeto no portfolio.
+Esse é o meu primeiro projeto no portfólio.
 
